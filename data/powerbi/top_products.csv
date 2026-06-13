@@ -1,0 +1,101 @@
+product_name,department,aisle,frequency,reorder_rate_pct
+Banana,produce,fresh fruits,472565,84.4
+Bag of Organic Bananas,produce,fresh fruits,379450,83.3
+Organic Strawberries,produce,fresh fruits,264683,77.8
+Organic Baby Spinach,produce,packaged vegetables fruits,241921,77.3
+Organic Hass Avocado,produce,fresh fruits,213584,79.7
+Organic Avocado,produce,fresh fruits,176815,75.8
+Large Lemon,produce,fresh fruits,152657,69.6
+Strawberries,produce,fresh fruits,142951,69.8
+Limes,produce,fresh fruits,140627,68.1
+Organic Whole Milk,dairy eggs,milk,137905,83.0
+Organic Raspberries,produce,packaged vegetables fruits,137057,76.9
+Organic Yellow Onion,produce,fresh vegetables,113426,69.7
+Organic Garlic,produce,fresh vegetables,109778,68.0
+Organic Zucchini,produce,fresh vegetables,104823,68.8
+Organic Blueberries,produce,packaged vegetables fruits,100060,62.9
+Cucumber Kirby,produce,fresh vegetables,97315,69.2
+Organic Fuji Apple,produce,fresh fruits,89632,71.2
+Organic Lemon,produce,fresh fruits,87746,69.0
+Apple Honeycrisp Organic,produce,fresh fruits,85020,73.5
+Organic Grape Tomatoes,produce,packaged vegetables fruits,84255,65.6
+Seedless Red Grapes,produce,packaged vegetables fruits,82689,66.7
+Organic Cucumber,produce,fresh vegetables,80392,69.7
+Honeycrisp Apple,produce,fresh fruits,79769,72.5
+Organic Baby Carrots,produce,packaged vegetables fruits,76896,65.6
+Organic Half & Half,dairy eggs,cream,76360,78.1
+Sparkling Water Grapefruit,beverages,water seltzer sparkling water,75886,77.1
+Organic Large Extra Fancy Fuji Apple,produce,fresh fruits,75165,76.1
+Yellow Onions,produce,fresh vegetables,73167,59.1
+Organic Gala Apples,produce,fresh fruits,72846,73.3
+Organic Baby Arugula,produce,packaged vegetables fruits,72829,68.4
+Carrots,produce,fresh vegetables,72736,64.0
+Fresh Cauliflower,produce,fresh vegetables,71584,64.2
+Original Hummus,deli,fresh dips tapenades,71314,72.5
+Organic Cilantro,produce,fresh herbs,69524,62.0
+Half & Half,dairy eggs,cream,69217,76.2
+Organic Small Bunch Celery,produce,fresh vegetables,68091,63.1
+Michigan Organic Kale,produce,fresh vegetables,67449,69.4
+Asparagus,produce,fresh vegetables,67283,61.8
+Organic Red Onion,produce,fresh vegetables,66986,61.7
+Organic Tomato Cluster,produce,fresh vegetables,64289,65.7
+Organic Blackberries,produce,fresh fruits,61746,65.3
+100% Whole Wheat Bread,bakery,bread,60816,73.7
+Organic Italian Parsley Bunch,produce,fresh herbs,60621,61.3
+Organic Whole String Cheese,dairy eggs,packaged cheese,59676,76.5
+Organic Granny Smith Apple,produce,fresh fruits,58779,70.7
+Organic Unsweetened Almond Milk,dairy eggs,soy lactosefree,57895,75.8
+Raspberries,produce,packaged produce,57640,68.5
+Organic Red Bell Pepper,produce,fresh vegetables,57485,66.0
+Spring Water,beverages,water seltzer sparkling water,56087,81.2
+Blueberries,frozen,frozen produce,55946,58.3
+Green Bell Pepper,produce,fresh vegetables,55484,61.0
+Organic Peeled Whole Baby Carrots,produce,packaged vegetables fruits,55371,63.1
+Red Peppers,produce,fresh vegetables,55280,63.3
+Red Vine Tomato,produce,fresh vegetables,54409,64.0
+Organic Ginger Root,produce,fresh vegetables,52087,57.3
+Organic Garnet Sweet Potato (Yam),produce,fresh vegetables,51939,66.2
+Boneless Skinless Chicken Breasts,meat seafood,packaged poultry,50281,66.2
+Extra Virgin Olive Oil,pantry,oils vinegars,50255,47.7
+Hass Avocados,produce,packaged produce,50221,74.4
+Organic Kiwi,produce,fresh fruits,50141,71.3
+Unsweetened Almondmilk,dairy eggs,soy lactosefree,49569,75.3
+Small Hass Avocado,produce,fresh fruits,49021,67.2
+Organic D'Anjou Pears,produce,fresh fruits,48915,69.1
+Organic Reduced Fat 2% Milk,dairy eggs,milk,47839,80.6
+Lime Sparkling Water,beverages,water seltzer sparkling water,46546,74.2
+Bunched Cilantro,produce,fresh herbs,45530,56.8
+Grated Parmesan,dairy eggs,packaged cheese,45238,61.1
+Organic Lacinato (Dinosaur) Kale,produce,fresh vegetables,43067,69.5
+Red Onion,produce,fresh vegetables,43009,54.9
+Sparkling Natural Mineral Water,beverages,water seltzer sparkling water,42934,73.4
+Organic Navel Orange,produce,fresh fruits,42721,64.0
+Jalapeno Peppers,produce,fresh vegetables,42561,58.1
+Broccoli Crown,produce,fresh vegetables,42044,65.5
+Uncured Genoa Salami,deli,lunch meat,41473,66.0
+Large Alfresco Eggs,dairy eggs,eggs,40376,77.6
+Roma Tomato,produce,fresh vegetables,40212,63.8
+Organic Grade A Free Range Large Brown Eggs,dairy eggs,eggs,40045,71.5
+"Clementines, Bag",produce,packaged vegetables fruits,39825,60.3
+Orange Bell Pepper,produce,fresh vegetables,39188,60.2
+Grape White/Green Seedless,produce,fresh fruits,38971,66.6
+Organic Broccoli,produce,fresh vegetables,38720,71.4
+Organic Black Beans,canned goods,canned meals beans,38001,58.8
+100% Raw Coconut Water,beverages,refrigerated,37973,78.8
+Organic Bartlett Pear,produce,fresh fruits,37706,70.8
+2% Reduced Fat Milk,dairy eggs,milk,37091,77.6
+Garlic,produce,fresh vegetables,36617,58.7
+Shredded Parmesan,dairy eggs,packaged cheese,36365,64.3
+Granny Smith Apples,produce,fresh fruits,36187,65.0
+Organic Carrot Bunch,produce,fresh vegetables,35820,58.0
+Soda,beverages,soft drinks,35791,77.6
+Unsalted Butter,dairy eggs,butter,35667,55.6
+Organic Reduced Fat Milk,dairy eggs,milk,35663,85.1
+Whole Milk,dairy eggs,milk,35633,77.9
+Bartlett Pears,produce,fresh fruits,35413,65.0
+Organic Romaine Lettuce,produce,fresh vegetables,34874,61.8
+Unsweetened Original Almond Breeze Almond Milk,dairy eggs,soy lactosefree,34583,71.4
+Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,dairy eggs,packaged cheese,34209,73.2
+Pure Irish Butter,dairy eggs,butter,33908,65.7
+Organic Broccoli Florets,frozen,frozen produce,32887,65.2
+Sparkling Lemon Water,beverages,water seltzer sparkling water,32788,74.4

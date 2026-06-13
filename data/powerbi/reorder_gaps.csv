@@ -1,0 +1,32 @@
+gap_days,order_count,reorder_pattern
+0.0,67755,Very Frequent
+1.0,145247,Very Frequent
+2.0,193206,Very Frequent
+3.0,217005,Very Frequent
+4.0,221696,Bi-weekly
+5.0,214503,Bi-weekly
+6.0,240013,Bi-weekly
+7.0,320608,Weekly
+8.0,181717,Bi-weekly
+9.0,118188,Bi-weekly
+10.0,95186,Bi-weekly
+11.0,80970,Bi-weekly
+12.0,76146,Bi-weekly
+13.0,83214,Bi-weekly
+14.0,100230,Bi-weekly
+15.0,66579,Infrequent
+16.0,46941,Infrequent
+17.0,39245,Infrequent
+18.0,35881,Infrequent
+19.0,34384,Infrequent
+20.0,38527,Infrequent
+21.0,45470,Infrequent
+22.0,32012,Infrequent
+23.0,23885,Infrequent
+24.0,20712,Infrequent
+25.0,19234,Infrequent
+26.0,19016,Infrequent
+27.0,22013,Infrequent
+28.0,26777,Infrequent
+29.0,19191,Infrequent
+30.0,369323,Monthly

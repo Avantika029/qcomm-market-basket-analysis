@@ -9,7 +9,7 @@ I built this to understand how recommendation engines like "you might also need"
 I used the [Instacart dataset](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) (3.4M orders, 49K products) as a stand-in for q-comm order data, then:
 
 - Explored the data — basket sizes, order timing, reorder habits ([notebook 01](notebooks/01_eda.ipynb))
-- Mined association rules with Apriori and FP-Growth, found 99 product pairs worth recommending ([notebook 02](notebooks/02_apriori_fpgrowth.ipynb))
+- Mined association rules with Apriori and FP-Growth, found 12 reliable product pairs worth recommending (7 SKU-level + 5 department-level) ([notebook 02](notebooks/02_apriori_fpgrowth.ipynb))
 - Segmented baskets by time of day and occasion ([notebook 03](notebooks/03_segmentation.ipynb))
 - Trained Prod2Vec embeddings, ALS collaborative filtering, and a co-purchase graph ([notebook 04](notebooks/04_advanced_models.ipynb))
 - Wrapped it all in a FastAPI recommendation service + Streamlit app + Power BI dashboard
